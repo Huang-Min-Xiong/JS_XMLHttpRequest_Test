@@ -1,0 +1,11 @@
+p{
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
+
+img {
+	width: 50%;
+	height: 100%;
+}
+
